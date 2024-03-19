@@ -67,3 +67,11 @@ group :test do
 end
 
 gem "tailwindcss-rails", "~> 2.3"
+
+gem "kaminari", "~> 1.2"
+
+gem "devise", "~> 4.9"
+
+gem "font-awesome-sass", "~> 6.5.1"
+
+gem "sassc"
